@@ -1,0 +1,7 @@
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\bin\Debug\SongsDemo.exe.config
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\bin\Debug\SongsDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\bin\Debug\SongsDemo.pdb
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\obj\Debug\SongsDemo.csprojAssemblyReference.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\obj\Debug\SongsDemo.csproj.CoreCompileInputs.cache
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\obj\Debug\SongsDemo.exe
+C:\Users\sbjkhadka\Desktop\COMP123Projects\SongsDemo\SongsDemo\obj\Debug\SongsDemo.pdb
